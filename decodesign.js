@@ -11,6 +11,7 @@ var P='https://acdn-us.mitiendanube.com/stores/001/823/801/products/';
 var L='/velas-difusores/|download-8-93c7675077d839078117886395219222-640-0.png|VELAS DE DISE\u00D1O|Decora y aromatiza tus espacios;/mesas-de-comedor/extensibles/|mesas-extensibles-2_2-25c7a25bd91e1da77717886568016662-640-0.png|MESAS EXTENSIBLES|Mesas que se adaptan a vos;https://www.decodesign.com.ar/search/?q=sofa+curvo|sofas-curvos-banner_1-1340bb7db09bbfd64917886560502374-640-0.png|SOF\u00C1S CURVOS|Redondos, mullidos y abrazables.;https://www.decodesign.com.ar/test/|sale-banner-5a6a43bad79a53194117887259619127-640-0.png|SALE|Hasta 50% off';
 
 var V=[
+['5RFLgMbJ5ck','Mesa Anika base fina'],
 ['ybw26DSx4dg','Travertino + nogal \uD83E\uDD0E'],
 ['a0Uj0Y03EB0','Mesa Thompson \uD83E\uDEB5'],
 ['2gLmDyDRLgw','As\u00ED se extiende la Anika \uD83E\uDEB5\u2728'],
