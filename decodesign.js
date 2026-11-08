@@ -11,11 +11,11 @@ var P='https://acdn-us.mitiendanube.com/stores/001/823/801/products/';
 var L='/velas-difusores/|download-8-93c7675077d839078117886395219222-640-0.png|VELAS DE DISE\u00D1O|Decora y aromatiza tus espacios;/mesas-de-comedor/extensibles/|mesas-extensibles-2_2-25c7a25bd91e1da77717886568016662-640-0.png|MESAS EXTENSIBLES|Mesas que se adaptan a vos;https://www.decodesign.com.ar/search/?q=sofa+curvo|sofas-curvos-banner_1-1340bb7db09bbfd64917886560502374-640-0.png|SOF\u00C1S CURVOS|Redondos, mullidos y abrazables.;https://www.decodesign.com.ar/test/|sale-banner-5a6a43bad79a53194117887259619127-640-0.png|SALE|Hasta 50% off';
 
 var V=[
-['5RFLgMbJ5ck','Mesa Anika base fina'],
+['5RFLgMbJ5ck','Mesa Anika base fina','https://www.decodesign.com.ar/search/?q=anika+twin+base+fina'],
 ['ybw26DSx4dg','Travertino + nogal \uD83E\uDD0E'],
-['a0Uj0Y03EB0','Mesa Thompson \uD83E\uDEB5'],
+['a0Uj0Y03EB0','Mesa Thompson \uD83E\uDEB5','https://www.decodesign.com.ar/productos/mesa-de-comedor-thompson-elegi-tu-medida-y-color/'],
 ['2gLmDyDRLgw','As\u00ED se extiende la Anika \uD83E\uDEB5\u2728'],
-['yBSMzAYU-hw','Silla Circle \uD83E\uDE76'],['6e2BUNJp15Q','Mesa varillada + sillas de nogal \uD83E\uDD0E'],['vMAM6rcWFWk','Aparador laqueado beige \uD83E\uDD0D\uD83E\uDD0E'],['T5LqPU5M1nI','Mesa redonda con base c\u00F3nica \uD83E\uDD0E'],['csKZqRj3jUI','Mesa ovalada en travertino \uD83E\uDD0D\uD83D\uDDA4'],['KFLCQa21hnQ','Comedor en madera y gris \uD83E\uDD0E\uD83E\uDE76'],['wr8CAQBFAVk','Rack de TV con base de hierro \uD83D\uDDA4\uD83E\uDD0E'],
+['yBSMzAYU-hw','Silla Circle \uD83E\uDE76','https://www.decodesign.com.ar/search/?q=silla+circle'],['6e2BUNJp15Q','Mesa varillada + sillas de nogal \uD83E\uDD0E'],['vMAM6rcWFWk','Aparador laqueado beige \uD83E\uDD0D\uD83E\uDD0E'],['T5LqPU5M1nI','Mesa redonda con base c\u00F3nica \uD83E\uDD0E','https://www.decodesign.com.ar/productos/mesa-de-comedor-redonda-simil-marmol-base-conica-negra-120-mt-m9bx5/'],['csKZqRj3jUI','Mesa ovalada en travertino \uD83E\uDD0D\uD83D\uDDA4'],['KFLCQa21hnQ','Comedor en madera y gris \uD83E\uDD0E\uD83E\uDE76'],['wr8CAQBFAVk','Rack de TV con base de hierro \uD83D\uDDA4\uD83E\uDD0E'],
 ['S0dKnXnTD0g','L\u00ednea Bali \uD83E\uDD0E'],
 ['WqljBvWdYOs','Escritorio de madera con cajones \uD83D\uDCBB'],
 ['WZcuT43vAmQ','Mesa de arrime negra \uD83D\uDDA4'],
@@ -23,22 +23,22 @@ var V=[
 ['KJsRwqHCUys','Valu te muestra el sof\u00e1 cama \uD83D\uDECB\uFE0F'],
 ['MCDIELk-6X8','Sof\u00e1 curvo + set de mesas bajas \uD83D\uDDA4'],
 ['g53jP3hBuTM','Mesa ovalada negra \uD83D\uDDA4'],
-['DQoOPrqU1sU','Mesa extensible con guardado \uD83E\uDEB5'],
+['DQoOPrqU1sU','Mesa extensible con guardado \uD83E\uDEB5','https://www.decodesign.com.ar/search/?q=anika+redonda+extensible+guardado'],
 ['xJMWqfOizjA','Valu te muestra Rack de TV en madera \uD83E\uDD0E'],
-['SKyfcseGOnQ','Mesa Tulip s\u00EDmil m\u00E1rmol \uD83E\uDD0D'],
+['SKyfcseGOnQ','Mesa Tulip s\u00EDmil m\u00E1rmol \uD83E\uDD0D','https://www.decodesign.com.ar/search/?q=tulip+simil+marmol'],
 ['ajCYSWkd-EM','Llegaron los nuevos ingresos \uD83E\uDD0D'],
 ['CIsEcWLvipU','\uD83D\uDECB\uFE0F\u2728 \u00A1Ven\u00ED a conocer nuestro local en Belgrano! \uD83D\uDCCD'],
 ['zmzrq-n629A','\uD83D\uDC40 Mir\u00E1 c\u00F3mo se extiende nuestra mesa m\u00E1s vendida \uD83D\uDD25'],
 ['21J6363M_KE','Nuevo en decodesign'],
-['DihMZN70U9w','Sof\u00E1 Curve \uD83E\uDD0D'],
+['DihMZN70U9w','Sof\u00E1 Curve \uD83E\uDD0D','https://www.decodesign.com.ar/search/?q=sofa+curve'],
 ['-pS2TIMLaVQ','Mesa de Comedor Oval de Travertino \uD83E\uDD0E'],
 ['8pH1Cy8Ih64','Mesa Iconic, top seller \uD83D\uDD25'],
-['mb_YXjGNcyQ','Sillas Curve, el dise\u00F1o del momento \u2604\uFE0F'],
+['mb_YXjGNcyQ','Sillas Curve, el dise\u00F1o del momento \u2604\uFE0F','https://www.decodesign.com.ar/search/?q=silla+curve'],
 ['_0BjzmHoZQQ','\uD83C\uDF3F Madera para\u00EDso: veta clara, liviana, noble.'],
 ['FNXdg9XelGU','Los pedidos que estamos por entregar \uD83D\uDCE6'],
 ['_1aznwBWl4I','Mesa ovalada s\u00EDmil m\u00E1rmol \uD83E\uDD0D'],
 ['ZGSm3cQ994k','Mesa de Comedor modelo Arco \uD83C\uDF08'],
-['PGH0ZNFzR_Q','Mesa de comedor Round \uD83E\uDD0D'],
+['PGH0ZNFzR_Q','Mesa de comedor Round \uD83E\uDD0D','https://www.decodesign.com.ar/search/?q=mesa+comedor+round'],
 ['OinpqugdSCA','Mesa de centro de fibra de vidrio \uD83E\uDD0D'],
 ['8sb3SsLHmVQ','Sillas y banquetas para todos los estilos \u2728'],
 ['bNK7IcLzPBI','Mesa de Comedor Travertino Madera Nogal \uD83E\uDD0E'],
@@ -90,7 +90,7 @@ var sec=D.createElement('section');
 sec.className='ds';
 var cards='';
 V.forEach((s) => {
-cards += '<div class="dc" data-yt="'+s[0]+'"><div class="df"><img decoding="async" alt="Decodesign" data-src="https://i.ytimg.com/vi/'+s[0]+'/maxresdefault.jpg" data-fb="https://i.ytimg.com/vi/'+s[0]+'/hqdefault.jpg"><span class="dy"></span></div><p class="dp">'+s[1]+'</p></div>';
+cards += '<div class="dc" data-yt="'+s[0]+'"><div class="df"><img decoding="async" alt="Decodesign" data-src="https://i.ytimg.com/vi/'+s[0]+'/maxresdefault.jpg" data-fb="https://i.ytimg.com/vi/'+s[0]+'/hqdefault.jpg"><span class="dy"></span></div><p class="dp">'+s[1]+(s[2]?'<a class="dpl" href="'+s[2]+'">Ver producto</a>':'')+'</p></div>';
 });
 sec.innerHTML='<div class="dh"><h2>Showroom virtual con Valu</h2></div><div class="dl">'+cards+'</div>';
 anchor.parentNode.insertBefore(sec, anchor);
