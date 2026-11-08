@@ -74,7 +74,7 @@ d.innerHTML='<h1>'+HERO_TITULO+'</h1><a class="dd-hero-btn" href="'+HERO_LINK+'"
 sec.appendChild(d);
 }
 
-function ddCat(){
+function ddCat(){ return; /* banners de categoria desactivados: ahora usamos heroes */
 if(!isHome()) return;
 if(D.querySelector('.dg')) return;
 var a=D.querySelector('.section-slider-home'); if(!a) return;
