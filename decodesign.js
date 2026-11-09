@@ -16,7 +16,7 @@ var V=[
 ['a0Uj0Y03EB0','Mesa Thompson \uD83E\uDEB5','https://www.decodesign.com.ar/productos/mesa-de-comedor-thompson-elegi-tu-medida-y-color/'],
 ['2gLmDyDRLgw','As\u00ED se extiende la Anika \uD83E\uDEB5\u2728','https://www.decodesign.com.ar/extensibles/'],
 ['yBSMzAYU-hw','Silla Circle \uD83E\uDE76','https://www.decodesign.com.ar/search/?q=silla+circle'],['6e2BUNJp15Q','Mesa varillada + sillas de nogal \uD83E\uDD0E','https://www.decodesign.com.ar/productos/silla-teca-negra-copia-gk5ck/'],['vMAM6rcWFWk','Aparador laqueado beige \uD83E\uDD0D\uD83E\uDD0E'],['T5LqPU5M1nI','Mesa redonda con base c\u00F3nica \uD83E\uDD0E','https://www.decodesign.com.ar/productos/mesa-de-comedor-redonda-simil-marmol-base-conica-negra-120-mt-m9bx5/'],['csKZqRj3jUI','Mesa ovalada en travertino \uD83E\uDD0D\uD83D\uDDA4'],['KFLCQa21hnQ','Comedor en madera y gris \uD83E\uDD0E\uD83E\uDE76'],['wr8CAQBFAVk','Rack de TV con base de hierro \uD83D\uDDA4\uD83E\uDD0E'],
-['S0dKnXnTD0g','L\u00ednea Bali \uD83E\uDD0E'],
+['S0dKnXnTD0g','L\u00ednea Bali \uD83E\uDD0E','https://www.decodesign.com.ar/productos/silla-de-teca/'],
 ['WqljBvWdYOs','Escritorio de madera con cajones \uD83D\uDCBB'],
 ['WZcuT43vAmQ','Mesa de arrime negra \uD83D\uDDA4'],
 ['9GAGLN9Vaew','Valu te muestra el home office \uD83D\uDCBB'],
