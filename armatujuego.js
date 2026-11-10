@@ -85,7 +85,11 @@
       var href = a ? a.getAttribute('href') : '';
       var img = c.querySelector('img');
       var src = '';
-      if (img) src = img.getAttribute('data-src') || img.getAttribute('src') || '';
+      if (img) {
+        src = img.getAttribute('data-srcset') || img.getAttribute('srcset') || img.getAttribute('data-src') || img.getAttribute('src') || '';
+        src = src.split(',')[0].trim().split(' ')[0];
+        if (src.indexOf('data:') === 0) src = '';
+      }
       if (src.indexOf('//') === 0) src = 'https:' + src;
       var pEl = c.querySelector('.js-price-display');
       var tEl = c.querySelector('.js-payment-discount-price-product');
